@@ -1,3 +1,10 @@
+#Virtual Environment
+venv/
+
+#Flask.Python Stack
+#Byte-compiled optimised dll files
+__pycache__/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
